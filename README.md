@@ -1,3 +1,5 @@
+[![Git stats](https://github-readme-stats.vercel.app/api?username=markd69)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 Hey! I'm Mark, student at the [University of Maryland](https://umd.edu) studying Computer Sciences. 
