@@ -1,5 +1,3 @@
-![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markd69&show_icons=true&theme=dark)
-
 ### Hi there 👋
 
 Hey! I'm Mark, student at the [University of Maryland](https://umd.edu) studying Computer Sciences. 
